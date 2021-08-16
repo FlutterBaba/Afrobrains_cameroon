@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206514604699",
+    "project_id": "afrobrains-cameroon",
+    "storage_bucket": "afrobrains-cameroon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206514604699:android:17813afbd3280352b5d43e",
+        "android_client_info": {
+          "package_name": "com.example.afrobrains_cameroon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206514604699-uci4t9vttj9mcv3toa8dua9rjbc09ebb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkAcsrpZ1X9edDMN8vcqcGzs0riQHf4-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206514604699-uci4t9vttj9mcv3toa8dua9rjbc09ebb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
